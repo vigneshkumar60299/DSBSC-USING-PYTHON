@@ -44,6 +44,8 @@ plt.show()
 <img width="555" height="416" alt="Screenshot 2025-12-04 124737" src="https://github.com/user-attachments/assets/333bc022-5c41-4a87-bf2c-d1ff1d73b493" />
 
 ## TABLE
+![WhatsApp Image 2025-12-05 at 12 22 11_088545b8](https://github.com/user-attachments/assets/56fbcd3a-983e-472a-8ffb-eb3c214cbdea)
+
 
 ## RESULT
 Thus the DSB-SC-AM Modulation is generated using python.
